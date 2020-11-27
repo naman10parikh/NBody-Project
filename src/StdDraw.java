@@ -461,14 +461,6 @@ import javax.swing.KeyStroke;
  *       This bug appears only on some systems.
  *  </ul>
  *  <p>
- *  <b>Reference.</b>
- *  For additional documentation,
- *  see <a href="https://introcs.cs.princeton.edu/15inout">Section 1.5</a> of
- *  <em>Computer Science: An Interdisciplinary Approach</em>
- *  by Robert Sedgewick and Kevin Wayne.
- *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
  */
 public final class StdDraw implements ActionListener, MouseListener, MouseMotionListener, KeyListener {
 
