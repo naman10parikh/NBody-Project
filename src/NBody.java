@@ -1,9 +1,3 @@
-/**
- * @author YOUR NAME THE STUDENT IN 201
- * 
- * Simulation program for the NBody assignment
- */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.*;
