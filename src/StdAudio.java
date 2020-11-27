@@ -35,19 +35,6 @@ import javax.sound.sampled.UnsupportedAudioFileException;
 import javax.sound.sampled.LineListener;
 import javax.sound.sampled.LineEvent;
 
-/**
- *  <i>Standard audio</i>. This class provides a basic capability for
- *  creating, reading, and saving audio. 
- *  <p>
- *  The audio format uses a sampling rate of 44,100 Hz, 16-bit, monaural.
- *
- *  <p>
- *  For additional documentation, see <a href="https://introcs.cs.princeton.edu/15inout">Section 1.5</a> of
- *  <i>Computer Science: An Interdisciplinary Approach</i> by Robert Sedgewick and Kevin Wayne.
- *
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
- */
 public final class StdAudio {
 
     /**
